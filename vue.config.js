@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/kashtan/',
+  publicPath: '/shaytan/',
   assetsDir: undefined,
   outputDir: undefined,
   runtimeCompiler: undefined,
