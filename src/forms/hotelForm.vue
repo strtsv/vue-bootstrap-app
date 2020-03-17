@@ -63,6 +63,7 @@ export default {
       baseUrl: null,
       hotelId: null,
       hotelName: null,
+      address: null,
       reference: true
     }
   }),

@@ -56,7 +56,7 @@ export default {
           title: "Home"
         },
         {
-          icon: "about",
+          icon: "web",
           title: "About",
           path: "/about"
         },
