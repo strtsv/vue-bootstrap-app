@@ -59,6 +59,11 @@ export default {
           icon: "about",
           title: "About",
           path: "/about"
+        },
+        {
+          icon: "hotel",
+          title: "Hotels",
+          path: "/hotels"
         }
       ],
       miniVariant: false,
